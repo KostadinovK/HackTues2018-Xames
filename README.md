@@ -33,12 +33,5 @@ Player 1 moves the object on the X axis, and Player 2 - on the Y axis.
 When one's turn comes, he chooses a number from one to five and this way he collects that number of objects.
 The game ends when the object, the players are moving, passes the diagonal line, made by the two biggest X and Y coordinates (15 - 15).
 
-## Fibonacci Nim
-
-Two people playing.
-One after another they are choosing objects from the common group.
-The first player can choose any number, but not all of them.
-After the second move players can take random quantity of numbers, that are not more than twice bigger than the previous number.
-The winner is the person, who takes all the other objects.
 
 
