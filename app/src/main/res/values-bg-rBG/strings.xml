@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Xames</string>
+    <string name="logic_wall">Логическа стена</string>
+    <string name="bachet_title">Играта на Баше</string>
+    <string name="dudeney_title">Играта на Дюдени</string>
+    <string name="even_mania_title">Мания "Четно"</string>
+    <string name="player1_wins">Играч 1 победи!</string>
+    <string name="player2_wins">Играч 2 победи!</string>
+    <string name="we_have_winner">Имаме победител!</string>
+    <string name="coming_soon">Още игри идват скоро.</string>
+    <string name="go">Давай!</string>
+    <string name="one_player">1 играч</string>
+    <string name="two_players">2 играча</string>
+    <string name="game_over">Край на играта!</string>
+    <string name="okay">Назад</string>
+    <string name="win_message">Червеният играч победи! Поздравления!</string>
+    <string name="BachetInfo">Играта на Баше носи името си от френския математик, поет и преводач - Клод Гаспар Баше дьо Мезиряк(1581 - 1638).   Играта се играе предимно от двама. Играч губи когато на неговия ход точките достигнат нула.</string>
+    <string name="DudeneyInfo">Играта на Дюдени носи името си от английския математик - Хенри Дудени(1857 - 1930). Играта се играе предимно от двама. Играч губи когато на неговия ход точките станат повече от 37. И побеждава този на който ход точките станат точно 37.</string>
+</resources>

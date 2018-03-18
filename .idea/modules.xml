@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HackTues2018.iml" filepath="$PROJECT_DIR$/HackTues2018.iml" />
+      <module fileurl="file://D:\Disk D\~~Programming~~\Projects\Java\Something\The-ERRORs\HackTues2018.iml" filepath="D:\Disk D\~~Programming~~\Projects\Java\Something\The-ERRORs\HackTues2018.iml" />
+      <module fileurl="file://D:\Android\HackTues2018\The-ERRORs.iml" filepath="D:\Android\HackTues2018\The-ERRORs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
